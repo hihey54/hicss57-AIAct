@@ -2,7 +2,7 @@ This anonymised repository contains supplementary material related to our main p
 
 The repository includes:
 
-* "appendix_detailedQuestions.pdf", which provides extensive justifications on the questions asked during our semi-structured interviews;
+* "appendix_detailedQuestions-onlineSurvey.pdf", which provides extensive justifications on the questions asked during our semi-structured interviews, as well as on the online survey we carried out with the general population;
 * "interviewQuestionnaire.pdf", which are the slides shown to our interviewees during the interviews;
 * "interviewResults.pdf", which are the complete results (aggregated) of our semi-structured interviews.
 
