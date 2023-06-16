@@ -1,4 +1,4 @@
-This anonymised repository contains supplementary material related to our main paper, submitted to HICSS'57 and currently under review.
+This anonymised repository contains supplementary material related to our main paper, entitled ```Voices from the Frontline: Revealing the AI Practitioners' viewpoint on the European AI Act```, submitted to HICSS'57 and currently under review.
 
 The repository includes:
 
